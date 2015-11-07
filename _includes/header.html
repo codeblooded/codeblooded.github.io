@@ -2,9 +2,8 @@
 
   <div class="wrapper">
 
-    <a class="site-title" id="title" href="{{ site.baseurl }}/"
-      onmouseover="document.titleMouseOver()"
-      onmouseout="document.titleMouseOut()">{{ site.title }}</a>
+    <a class="site-title" id="title" href="{{ site.baseurl }}/">
+      {{ site.title }}</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -27,14 +26,3 @@
   </div>
 
 </header>
-
-<script type="text/javascript">
-  document.titleMouseOver = function() {
-    var t = document.getElementById("title");
-    t.innerHTML = "Ben Reed"
-  }
-  document.titleMouseOut = function() {
-    var t = document.getElementById("title");
-    t.innerHTML = "codeblooded"
-  }
-</script>
