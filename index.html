@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Blog Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <table>
+          <tr>
+            <td>
+              <span class="post-meta">{{ post.date | date: "%m/%-d/%Y" }}
+            </td>
+            <td rowspan="2"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span></td>
+          </tr>
+        </table>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
