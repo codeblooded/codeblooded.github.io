@@ -20,4 +20,6 @@ I'm a Christian, and my faith is an critical part of my life. Through the challe
 
 In my freetime, I hunt around for cool projects and learn new things on [GitHub](https://github.com/codeblooded?tab=stars). My interests vary on a continual basis, and so you can find an updated list [here](/interests).
 
+Recently, I've also gotten into some [podcasts](/podcasts).
+
 That's enough about me! What about you?
