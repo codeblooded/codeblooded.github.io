@@ -5,7 +5,7 @@ permalink: /interests/
 ---
 
 - Machine Learning, CoreML, and Bayesian Classifiers
-- Serverless Architecture wih AWS Lambda
+- Serverless Architecture with AWS Lambda
 - Truly original app ideas (>2 million in the App Store)
 - Docker, Compose, Orchestration (Swarm, Kubernetes, Mesos) and Everything Containers
 - Natural Language Processing
