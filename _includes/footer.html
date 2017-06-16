@@ -1,0 +1,39 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>&copy; 2017 {{ site.title | escape }}</li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <ul class="social-media-list">
+          {% if site.accounts.github %}
+          <li><a href="https://github.com/{{ site.accounts.github }}"><i class="fa fa-github fa-2x"></i></a></li>
+          {% endif %}
+
+          {% if site.accounts.twitter %}
+          <li><a href="https://twitter.com/{{ site.accounts.twitter }}"><i class="fa fa-twitter fa-2x"></i></a></li>
+          {% endif %}
+
+          {% if site.accounts.facebook %}
+          <li><a href="https://facebook.com/{{ site.accounts.facebook }}"><i class="fa fa-facebook-square fa-2x"></i></a></li>
+          {% endif %}
+
+          {% if site.accounts.linkedin %}
+          <li><a href="https://linkedin.com/in/{{ site.accounts.linkedin }}"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
+          {% endif %}
+
+          <li><a href="/feed.xml"><i class="fa fa-rss fa-2x"></i></a></li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
