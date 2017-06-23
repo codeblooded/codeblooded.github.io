@@ -12,8 +12,5 @@ permalink: /podcasts/
 - [Google Cloud Platform Podcast](https://www.gcppodcast.com/)
 - [iPhreaks](https://devchat.tv/iphreaks)
 - [The Changelog](https://changelog.com/podcast)
-
-### More Amazing Podcasts
-
 - [Railscasts](http://railscasts.com)
 - [NSScreencast](http://nsscreencast.com/episodes)
