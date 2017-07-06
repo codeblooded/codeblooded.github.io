@@ -19,6 +19,6 @@ permalink: /contact/
   </tr>
   <tr>
     <th>PGP Key</th>
-    <td><a href="https://www.facebook.com/benvreed/publickey/download/">Download My Public Key</a></td>
+    <td><a href="https://keybase.io/codeblooded">Get My Public Key from Keybase</a></td>
   </tr>
 </table>
