@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/codeblooded
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://codeblooded.me
+  * I am codeblooded (https://keybase.io/codeblooded) on keybase.
+  * I have a public key ASAcQWlgu6uvUi5qk9caAKg-bmE_HCZBwCi8oVxAHh8_-Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204cd7a351aa66422698326847d77d841d6d8ad97d372bfaad2cbced5e052973370a",
+      "host": "keybase.io",
+      "kid": "01201c416960bbabaf522e6a93d71a00a83e6e613f1c2641c028bca15c401e1f3ff80a",
+      "uid": "b9fa6073f6a29a88bb06fa830379b419",
+      "username": "codeblooded"
+    },
+    "merkle_root": {
+      "ctime": 1516032321,
+      "hash": "9307d856568b6d5eac535d2633664039b127e2074b4cb5a827efecdb512555c535ef2d16eeba2790e88c73262cea42d65e958a06b10e6deea056510614c1f19e",
+      "hash_meta": "c83ef20a25b15b824cd629703a18828ba8d9b55b3bb421a3b914499909b6770a",
+      "seqno": 1928898
+    },
+    "service": {
+      "hostname": "codeblooded.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.37"
+  },
+  "ctime": 1516032337,
+  "expire_in": 504576000,
+  "prev": "90f8ba76e30786ad541680379c45106be55ed08b319c040388e7ac261a49ccbe",
+  "seqno": 43,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHEFpYLurr1IuapPXGgCoPm5hPxwmQcAovKFcQB4fP/gKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNGNkN2EzNTFhYTY2NDIyNjk4MzI2ODQ3ZDc3ZDg0MWQ2ZDhhZDk3ZDM3MmJmYWFkMmNiY2VkNWUwNTI5NzMzNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMWM0MTY5NjBiYmFiYWY1MjJlNmE5M2Q3MWEwMGE4M2U2ZTYxM2YxYzI2NDFjMDI4YmNhMTVjNDAxZTFmM2ZmODBhIiwidWlkIjoiYjlmYTYwNzNmNmEyOWE4OGJiMDZmYTgzMDM3OWI0MTkiLCJ1c2VybmFtZSI6ImNvZGVibG9vZGVkIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE2MDMyMzIxLCJoYXNoIjoiOTMwN2Q4NTY1NjhiNmQ1ZWFjNTM1ZDI2MzM2NjQwMzliMTI3ZTIwNzRiNGNiNWE4MjdlZmVjZGI1MTI1NTVjNTM1ZWYyZDE2ZWViYTI3OTBlODhjNzMyNjJjZWE0MmQ2NWU5NThhMDZiMTBlNmRlZWEwNTY1MTA2MTRjMWYxOWUiLCJoYXNoX21ldGEiOiJjODNlZjIwYTI1YjE1YjgyNGNkNjI5NzAzYTE4ODI4YmE4ZDliNTViM2JiNDIxYTNiOTE0NDk5OTA5YjY3NzBhIiwic2Vxbm8iOjE5Mjg4OTh9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiY29kZWJsb29kZWQubWUiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM3In0sImN0aW1lIjoxNTE2MDMyMzM3LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjkwZjhiYTc2ZTMwNzg2YWQ1NDE2ODAzNzljNDUxMDZiZTU1ZWQwOGIzMTljMDQwMzg4ZTdhYzI2MWE0OWNjYmUiLCJzZXFubyI6NDMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAvxyelmp6YSDwZa0EcFeRap0guR47XWhm2k2I/JIR9aFpxcqQVx5wCG8j2j5z0eCtg95kweFKhc8Q41bFf93LBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEID8CoTjBdN5cbYIHYsqQ7+cXhTt8r8C/48z2ACzwRmeMo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/codeblooded
+
+==================================================================
